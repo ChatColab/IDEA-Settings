@@ -1,0 +1,11 @@
+com.mnw.tabmover
+AceJump
+IdeaVIM
+org.jetbrains.IdeaVim-EasyMotion
+io.github.mishkun.ideavimsneak
+com.vermouthx.idea
+com.github.copilot
+String Manipulation
+org.sonarlint.idea
+org.strangeway.vaadin
+com.mallowigi

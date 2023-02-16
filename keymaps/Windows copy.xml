@@ -1,0 +1,37 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="AceAction" />
+  <action id="DatabaseView.CopyDdlAction">
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
+  </action>
+  <action id="Maven.Reimport">
+    <keyboard-shortcut first-keystroke="shift alt end" />
+  </action>
+  <action id="VimPluginToggle">
+    <keyboard-shortcut first-keystroke="shift ctrl alt g" />
+  </action>
+  <action id="com.mnw.tabmover.actions.MoveTabDownAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt right" />
+    <keyboard-shortcut first-keystroke="shift alt page_up" />
+  </action>
+  <action id="com.mnw.tabmover.actions.MoveTabUpAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt left" />
+    <keyboard-shortcut first-keystroke="shift alt page_down" />
+  </action>
+  <action id="copilot.cycleNextInlays">
+    <keyboard-shortcut first-keystroke="alt close_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl period" />
+    <keyboard-shortcut first-keystroke="alt semicolon" />
+  </action>
+  <action id="copilot.cyclePrevInlays">
+    <keyboard-shortcut first-keystroke="alt open_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+    <keyboard-shortcut first-keystroke="alt comma" />
+  </action>
+  <action id="copilot.openCopilot">
+    <keyboard-shortcut first-keystroke="alt exclamation_mark" />
+  </action>
+  <action id="copilot.requestCompletions">
+    <keyboard-shortcut first-keystroke="alt back_slash" />
+    <keyboard-shortcut first-keystroke="alt colon" />
+  </action>
+</keymap>

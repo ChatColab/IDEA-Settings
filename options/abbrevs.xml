@@ -1,0 +1,7 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="com.mnw.tabmover.actions.MoveTabDownAction" />
+    </abbreviations>
+  </component>
+</application>
